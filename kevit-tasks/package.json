@@ -1,0 +1,11 @@
+{
+  "name": "kevit-tasks",
+  "version": "1.0.0",
+  "description": "this is a task completed by shukla yash as a part of internship ate kevit technologies",
+  "main": "promise-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shukla yash",
+  "license": "ISC"
+}
